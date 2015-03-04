@@ -1,0 +1,12 @@
+{
+  "name"         : "meta-scraper",
+  "version"      : "0.0.1",
+  "description"  : "Scrape le web, then process through ai-apis",
+  "main"         : "server.js",
+  "author"       : "SunAxe",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
